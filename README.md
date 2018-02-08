@@ -1,0 +1,2 @@
+# Pataptap-Clone
+Patatap is a portable animation and sound kit. With the touch of a finger create melodies charged with moving shapes. While easy to pick up there is a wide range of possibilities. Switch between multiple color palettes and matching soundscapes on the fly. Whether its on your laptop, desktop, mobile phone, or tablet Patatap invites creators of all ages to engage the mind and senses in a different type of creation process.
